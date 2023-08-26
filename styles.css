@@ -679,7 +679,7 @@ select:hover {
 /* <-- Projects --> */
 
 .projects {
-  margin-top: 7rem;
+  padding: 7rem 0;
   text-align: center;
 }
 
@@ -729,38 +729,6 @@ select:hover {
   max-width: 17.375rem;
   transition: all 0.2s ease-in-out;
 }
-
-/* .one{
-  grid-area: "one";
-}
-
-.two{
-  grid-area: "two";
-}
-
-.three{
-  grid-area: "three";
-}
-
-.four{
-  grid-area: "four";
-}
-
-.five{
-  grid-area: "five";
-}
-
-.six{
-  grid-area: "six";
-}
-
-.seven{
-  grid-area: "seven";
-}
-
-.eight{
-  grid-area: "eight";
-} */
 
 .team-members {
   margin: 10rem 0;
@@ -820,7 +788,7 @@ select:hover {
   justify-content: center;
   gap: 5rem;
   align-items: center;
-  margin-bottom: 6rem;
+  padding-top: 6rem;
 }
 
 .about .about-image {
@@ -886,7 +854,7 @@ select:hover {
 /* <-- Contact --> */
 
 .contact {
-  margin: 9rem 0 0 0;
+  padding-top: 10rem;
   display: flex;
   align-items: center;
   justify-content: center;
